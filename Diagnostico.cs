@@ -73,6 +73,48 @@ namespace Diagnostico_Medico{
                                       "Modo de transmision: Alimentos, Agua, Animales Domesticos, Fecal-Oral.");
                 break;
 
+                case "121112":
+                    Console.WriteLine("El causante es: Campylobacter");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: <10 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Animales Domesticos, Fecal-Oral.");
+                break;
+
+                case "121111":
+                    Console.WriteLine("El causante es: Campylobacter");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: <10 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Animales Domesticos, Fecal-Oral.");
+                break;
+                
+                case "121211":
+                    Console.WriteLine("El causante es: Campylobacter");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: <10 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Animales Domesticos, Fecal-Oral.");
+                break;
+
+                case "121212":
+                    Console.WriteLine("El causante es: Campylobacter");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: <10 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Animales Domesticos, Fecal-Oral.");
+                break;
+
+                case "121221":
+                    Console.WriteLine("El causante es: Campylobacter");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: <10 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Animales Domesticos, Fecal-Oral.");
+                break;
+
+                case "121121":
+                    Console.WriteLine("El causante es: Campylobacter");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: <10 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Animales Domesticos, Fecal-Oral.");
+                break;
+            
                 case "113122":
                     Console.WriteLine("El causante es: Shigella");
                     informacion(diago);
@@ -81,6 +123,48 @@ namespace Diagnostico_Medico{
                 break;
 
                 case "111122":
+                    Console.WriteLine("El causante es: Escherichia coli enteroinvasivo");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-5 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Persona a Persona, Fecal-Oral.");
+                break;
+
+                case "111112":
+                    Console.WriteLine("El causante es: Escherichia coli enteroinvasivo");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-5 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Persona a Persona, Fecal-Oral.");
+                break;
+
+                case "111111":
+                    Console.WriteLine("El causante es: Escherichia coli enteroinvasivo");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-5 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Persona a Persona, Fecal-Oral.");
+                break;
+
+                case "111121":
+                    Console.WriteLine("El causante es: Escherichia coli enteroinvasivo");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-5 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Persona a Persona, Fecal-Oral.");
+                break;
+
+                case "111211":
+                    Console.WriteLine("El causante es: Escherichia coli enteroinvasivo");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-5 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Persona a Persona, Fecal-Oral.");
+                break;
+
+                case "111212":
+                    Console.WriteLine("El causante es: Escherichia coli enteroinvasivo");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-5 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Persona a Persona, Fecal-Oral.");
+                break;
+
+                case "111221":
                     Console.WriteLine("El causante es: Escherichia coli enteroinvasivo");
                     informacion(diago);
                     Console.WriteLine("Duracion de la Enfermedad: 3-5 dias\n" +
@@ -109,6 +193,48 @@ namespace Diagnostico_Medico{
                 break;
 
                 case "131122":
+                    Console.WriteLine("El causante es: Vibrio Cholerae");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-4 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Fecal-Oral.");
+                break;
+
+                case "131112":
+                    Console.WriteLine("El causante es: Vibrio Cholerae");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-4 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Fecal-Oral.");
+                break;
+
+                case "131111":
+                    Console.WriteLine("El causante es: Vibrio Cholerae");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-4 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Fecal-Oral.");
+                break;
+
+                case "131121":
+                    Console.WriteLine("El causante es: Vibrio Cholerae");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-4 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Fecal-Oral.");
+                break;
+
+                case "131212":
+                    Console.WriteLine("El causante es: Vibrio Cholerae");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-4 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Fecal-Oral.");
+                break;
+
+                case "131221":
+                    Console.WriteLine("El causante es: Vibrio Cholerae");
+                    informacion(diago);
+                    Console.WriteLine("Duracion de la Enfermedad: 3-4 dias\n" +
+                                      "Modo de transmision: Alimentos, Agua, Fecal-Oral.");
+                break;
+
+                case "131211":
                     Console.WriteLine("El causante es: Vibrio Cholerae");
                     informacion(diago);
                     Console.WriteLine("Duracion de la Enfermedad: 3-4 dias\n" +
